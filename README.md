@@ -36,16 +36,16 @@ python pythonserver.py
 
 ### 效果展示
 - 加载界面
-![alt text](Doc/7.png)
+![alt text](dreamlover/7.png)
 - 主界面
 能够根据用户输入反应不同的情绪并作出响应的动作
-![alt text](Doc/4.png)
-![alt text](Doc/2.png)
-![alt text](Doc/3.png)
+![alt text](dreamlover/4.png)
+![alt text](dreamlover/2.png)
+![alt text](dreamlover/3.png)
 
 - 聊天内容记录
-![alt text](Doc/5.png)
+![alt text](dreamlover/5.png)
 
 - 性格调整
-![alt text](Doc/6.png)
+![alt text](dreamlover/6.png)
   
