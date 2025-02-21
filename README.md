@@ -35,6 +35,8 @@ python pythonserver.py
 - 客户端基于Unity 开发，Unity 版本 `2021.3.23f1c1`
 
 ### 效果展示
+[bilibili视频预览见这里](https://www.bilibili.com/video/BV13BPFeQE7W?vd_source=71e6fece521a7574ba158bddc55e4492)
+
 - 加载界面
 ![alt text](dreamlover/7.png)
 - 主界面
