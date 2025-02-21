@@ -3,7 +3,7 @@
 ### 快速部署
 ``` bash
 git clone https://github.com/DemonWhiteY/dreamlover.git
-cd server
+cd Server
 pip install -r requirements.txt
 ```
 
@@ -27,8 +27,10 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 ```
-
 然后启动服务端
 ``` bash
 python pythonserver.py
 ```
+
+- 客户端基于Unity 开发，Unity 版本 `2021.3.23f1c1`
+  
