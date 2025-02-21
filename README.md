@@ -33,4 +33,19 @@ python pythonserver.py
 ```
 
 - 客户端基于Unity 开发，Unity 版本 `2021.3.23f1c1`
+
+### 效果展示
+- 加载界面
+![alt text](Doc/7.png)
+- 主界面
+能够根据用户输入反应不同的情绪并作出响应的动作
+![alt text](Doc/4.png)
+![alt text](Doc/2.png)
+![alt text](Doc/3.png)
+
+- 聊天内容记录
+![alt text](Doc/5.png)
+
+- 性格调整
+![alt text](Doc/6.png)
   
